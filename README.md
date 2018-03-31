@@ -1,4 +1,9 @@
-# Classification-and-Counting-with-Recurrent-Contexts
+# Classifying and Counting with Recurrent Contexts
+
 Supplementary material for the paper.
 
-material will be available by the next weekend.
+| Info             | Details                 |
+| -----------------|-------------------------|
+| **Paper status** | submitted               |
+| **DOI**          | _coming soon_           |
+| **URL**          | _coming soon_           |
